@@ -19,7 +19,7 @@
     "gulp": "^3.8.10",
     "jscs": "^1.7.3",
     "jshint": "^2.5.10",
-    "precommit-hook": "^2.0.0",
+    "precommit-hook": "^1.0.7",
     "tap-spec": "^2.1.0",
     "tape": "^3.0.3",
     "tape-run": "^0.3.0",
